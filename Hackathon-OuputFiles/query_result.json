@@ -1,0 +1,85 @@
+{
+  "query": "Which services do you provide and what capabilities are included?",
+  "strict_mode": "true",
+  "entity_filter": "services",
+  "section_hint": "service_descriptions",
+  "min_confidence": 0.85,
+  "abstain": false,
+  "abstain_reason": "",
+  "hits": [
+    {
+      "chunk_id": "xyz_handbook_v1_p011_011_c0017",
+      "score": 0.3495,
+      "page_start": 11,
+      "page_end": 11,
+      "section": "service_descriptions",
+      "citation_anchor": "page:11",
+      "content_preview": "3. Dealer & Field Service Intelligence Dealer networks are where the customer relationship - and a significant portion of revenue - is won or lost. Yet most OEMs lack a consistent, real-time view of what is happening across their dealer base. Our Dealer & F...",
+      "confidence": 0.88,
+      "entity_tags": [
+        "delivery_approach",
+        "services"
+      ]
+    },
+    {
+      "chunk_id": "xyz_handbook_v1_p009_009_c0015",
+      "score": 0.2482,
+      "page_start": 9,
+      "page_end": 9,
+      "section": "service_descriptions",
+      "citation_anchor": "page:9:table",
+      "content_preview": "KPI | Description Supplier Risk Score | Composite score combining on-time delivery, financial health, and external signals Parts Availability | Percentage of required parts available on hand at any given time Days of Inventory | Number of days of production...",
+      "confidence": 0.98,
+      "entity_tags": [
+        "delivery_approach",
+        "services",
+        "sla_terms"
+      ]
+    },
+    {
+      "chunk_id": "xyz_handbook_v1_p011_011_c0019",
+      "score": 0.2114,
+      "page_start": 11,
+      "page_end": 11,
+      "section": "service_descriptions",
+      "citation_anchor": "page:11:table",
+      "content_preview": "KPI | Description Sales per Dealer | Units sold per dealer over a defined period Showroom Conversion | Percentage of walk-in or lead enquiries converted to a sale Rate Finance Penetration | Share of vehicle sales where the dealer arranges financing Aftermar...",
+      "confidence": 0.98,
+      "entity_tags": [
+        "delivery_approach",
+        "services"
+      ]
+    },
+    {
+      "chunk_id": "xyz_handbook_v1_p007_007_c0010",
+      "score": 0.2013,
+      "page_start": 7,
+      "page_end": 7,
+      "section": "service_descriptions",
+      "citation_anchor": "page:7:table",
+      "content_preview": "KPI | Description Defects per 1,000 | Industry-standard quality metric at model and component level Vehicles MTBF | Mean Time Between Failures - tracks component reliability over time Warranty Spend per | Total warranty cost normalised per vehicle produced ...",
+      "confidence": 0.98,
+      "entity_tags": [
+        "assumptions",
+        "delivery_approach",
+        "services"
+      ]
+    },
+    {
+      "chunk_id": "xyz_handbook_v1_p007_007_c0008",
+      "score": 0.1769,
+      "page_start": 7,
+      "page_end": 7,
+      "section": "service_descriptions",
+      "citation_anchor": "page:7",
+      "content_preview": "Service Descriptions 1. Warranty Analytics Warranty claims are one of the most costly and reputationally sensitive areas in automotive operations. A single undetected defect pattern - left unaddressed for weeks - can escalate into a full recall. Our Warrant...",
+      "confidence": 0.88,
+      "entity_tags": [
+        "assumptions",
+        "delivery_approach",
+        "services"
+      ]
+    }
+  ],
+  "generated_at": "2026-07-11T17:49:07.349244+00:00"
+}

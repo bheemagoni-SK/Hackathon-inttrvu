@@ -1,0 +1,18 @@
+{
+  "topic": "Indian automotive industry market trends",
+  "phase1_records_file": "/content/extraction_output/market_records.jsonl",
+  "phase1_signals_file": "/content/extraction_output/market_signals.json",
+  "phase1_report_file": "/content/extraction_output/fetch_report.json",
+  "phase3_chunks_file": "/content/extraction_output/chunks.jsonl",
+  "phase3_report_file": "/content/extraction_output/chunk_report.json",
+  "phase4_index_report": {
+    "generated_at": "2026-07-11T17:50:06.233654+00:00",
+    "run_id": "20260711T174959Z-bd0ad96c",
+    "collection_name": "india_auto_market_chunks",
+    "persist_dir": "/content/extraction_output/chroma_db",
+    "source_chunks_file": "/content/extraction_output/chunks.jsonl",
+    "source_file_hash": "13d83ec48504f32bdd667519508b35d9067277721d1a00a3dd4b5b7ef39a97d6",
+    "indexed_chunks": 76,
+    "total_in_collection": 76
+  }
+}

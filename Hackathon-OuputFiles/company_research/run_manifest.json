@@ -1,0 +1,360 @@
+{
+  "generated_at": "2026-07-11T17:54:25.298075+00:00",
+  "market_report": {
+    "generated_at": "2026-07-11T17:51:28.139635+00:00",
+    "topic": "Research the Indian automotive industry",
+    "consultancy_context": {
+      "services_response": {
+        "status": "answered",
+        "answer": "Services provided: Warranty Analytics, Supply-Chain Risk Prediction, Dealer & Field Service Intelligence.",
+        "reason": "Answered from service-tagged chunks under strict metadata filtering.",
+        "citations": [
+          {
+            "chunk_id": "xyz_handbook_v1_p011_011_c0017",
+            "citation_anchor": "page:11",
+            "page_start": 11,
+            "page_end": 11,
+            "section": "service_descriptions",
+            "score": 0.3212,
+            "confidence": 0.88,
+            "content_preview": "3. Dealer & Field Service Intelligence Dealer networks are where the customer relationship - and a significant portion of revenue - is won or lost. Yet most OEMs lack a consistent, real-time view of what is happening across their dealer base. Our Dealer & F..."
+          },
+          {
+            "chunk_id": "xyz_handbook_v1_p009_009_c0015",
+            "citation_anchor": "page:9:table",
+            "page_start": 9,
+            "page_end": 9,
+            "section": "service_descriptions",
+            "score": 0.2937,
+            "confidence": 0.98,
+            "content_preview": "KPI | Description Supplier Risk Score | Composite score combining on-time delivery, financial health, and external signals Parts Availability | Percentage of required parts available on hand at any given time Days of Inventory | Number of days of production..."
+          },
+          {
+            "chunk_id": "xyz_handbook_v1_p011_011_c0019",
+            "citation_anchor": "page:11:table",
+            "page_start": 11,
+            "page_end": 11,
+            "section": "service_descriptions",
+            "score": 0.2646,
+            "confidence": 0.98,
+            "content_preview": "KPI | Description Sales per Dealer | Units sold per dealer over a defined period Showroom Conversion | Percentage of walk-in or lead enquiries converted to a sale Rate Finance Penetration | Share of vehicle sales where the dealer arranges financing Aftermar..."
+          },
+          {
+            "chunk_id": "xyz_handbook_v1_p007_007_c0010",
+            "citation_anchor": "page:7:table",
+            "page_start": 7,
+            "page_end": 7,
+            "section": "service_descriptions",
+            "score": 0.244,
+            "confidence": 0.98,
+            "content_preview": "KPI | Description Defects per 1,000 | Industry-standard quality metric at model and component level Vehicles MTBF | Mean Time Between Failures - tracks component reliability over time Warranty Spend per | Total warranty cost normalised per vehicle produced ..."
+          },
+          {
+            "chunk_id": "xyz_handbook_v1_p011_011_c0018",
+            "citation_anchor": "page:11",
+            "page_start": 11,
+            "page_end": 11,
+            "section": "service_descriptions",
+            "score": 0.2238,
+            "confidence": 0.88,
+            "content_preview": "ccountability and targeted coaching that drives real performance improvement. Networks that have adopted structured dealer analytics have reported 15% increases in extended-warranty sales within a year and KPI achievement rate improvements of 10-20%. KPIs T..."
+          }
+        ],
+        "structured_answer": {
+          "services": [
+            "Warranty Analytics",
+            "Supply-Chain Risk Prediction",
+            "Dealer & Field Service Intelligence"
+          ],
+          "capability_notes": []
+        }
+      },
+      "pricing_response": {
+        "status": "answered",
+        "answer": "Engagement models offered: Fixed-Price Project, Time & Materials, Revenue-Share / Success Fee, Managed Service / Subscription. Charges are described as follows: All pricing is custom-quoted after an initial scoping session; the Fixed-Price Project Defined scope delivered for a lump-sum fee. Managed Service / Monthly retainer covering hosting, Ongoing analytics with Final commercials are confirmed after discovery/scoping, so exact fixed price cards are not listed in the handbook.",
+        "reason": "Answered from pricing-tagged chunks under strict metadata filtering.",
+        "citations": [
+          {
+            "chunk_id": "xyz_handbook_v1_p016_016_c0029",
+            "citation_anchor": "page:16",
+            "page_start": 16,
+            "page_end": 16,
+            "section": "pricing_and_engagement",
+            "score": 0.7449,
+            "confidence": 0.88,
+            "content_preview": "Pricing & Engagement Models We offer flexible engagement structures to suit different client needs - from one-time project builds to long-term managed service partnerships. All pricing is custom-quoted after an initial scoping session; the table below descr..."
+          },
+          {
+            "chunk_id": "xyz_handbook_v1_p016_016_c0030",
+            "citation_anchor": "page:16:table",
+            "page_start": 16,
+            "page_end": 16,
+            "section": "pricing_and_engagement",
+            "score": 0.7057,
+            "confidence": 0.98,
+            "content_preview": "Engagement Model | Description | Best Suited For Fixed-Price Project | Defined scope delivered for a lump-sum fee. | Well-scoped requirements, first- Covers one or two phases. | time engagements Time & Materials | Iterative work billed by daily or weekly ef..."
+          }
+        ],
+        "structured_answer": {
+          "engagement_models": [
+            "Fixed-Price Project",
+            "Time & Materials",
+            "Revenue-Share / Success Fee",
+            "Managed Service / Subscription"
+          ],
+          "charge_notes": [
+            "All pricing is custom-quoted after an initial scoping session; the",
+            "Fixed-Price Project Defined scope delivered for a lump-sum fee.",
+            "Managed Service / Monthly retainer covering hosting, Ongoing analytics with",
+            "Indicatively, analytics engagements typically range from a few lakhs (for small proof-of-concepts) to several",
+            "crores of rupees for full enterprise-scale deployments.",
+            "Fixed-Price Project | Defined scope delivered for a lump-sum fee. | Well-scoped requirements, first-"
+          ]
+        }
+      }
+    },
+    "market_retrieval": {
+      "query": "Research the Indian automotive industry",
+      "hit_count": 8,
+      "hits": [
+        {
+          "chunk_id": "india_auto_market_v1_c00019",
+          "score": 0.8178,
+          "page_start": 0,
+          "page_end": 0,
+          "section": "company_performance",
+          "citation_anchor": "https://www.moneycontrol.com/news/tags/indian-automobile-industry.html",
+          "content_preview": "Indian Automobile Industry | Latest & Breaking News on Indian .... Get all latest & breaking news on Indian Automobile Industry. Watch videos, top stories and articles on Indian Automobile Industry at moneycontrol.com.",
+          "confidence": 0.88,
+          "entity_tags": [
+            "market_analysis"
+          ]
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00032",
+          "score": 0.7628,
+          "page_start": 0,
+          "page_end": 0,
+          "section": "industry_trends",
+          "citation_anchor": "https://www.ibef.org/industry/india-automobiles",
+          "content_preview": "India's Automobile Industry: Growth & Trends | IBEF. Explore the dynamics of India's automotive industry companies. Discover the latest growth trends, investments, and opportunities in the auto sector.",
+          "confidence": 0.88,
+          "entity_tags": [
+            "market_analysis"
+          ]
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00033",
+          "score": 0.7628,
+          "page_start": 0,
+          "page_end": 0,
+          "section": "industry_trends",
+          "citation_anchor": "https://dev.ibef.org/industry/india-automobiles",
+          "content_preview": "India's Automobile Industry: Growth & Trends | IBEF. Explore the dynamics of India's automotive industry companies. Discover the latest growth trends, investments, and opportunities in the auto sector.",
+          "confidence": 0.88,
+          "entity_tags": [
+            "market_analysis"
+          ]
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00023",
+          "score": 0.7498,
+          "page_start": 0,
+          "page_end": 0,
+          "section": "company_performance",
+          "citation_anchor": "https://www.moneycontrol.com/news/opinion/driving-the-future-navigating-2025-for-the-indian-automobile-industry-12916139.html",
+          "content_preview": "Driving the future: Navigating 2025 for the Indian automobile industry. The evolution of the Indian automotive industry is a remarkable tale of innovation and resilience, shaped by the aspirations of a growing economy and the ingenuity of its people. From t...",
+          "confidence": 0.88,
+          "entity_tags": [
+            "ev",
+            "market_analysis"
+          ]
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00047",
+          "score": 0.7474,
+          "page_start": 0,
+          "page_end": 0,
+          "section": "industry_trends",
+          "citation_anchor": "https://www.acma.in/about-us.php",
+          "content_preview": "About the Automotive Component Manufacturers Association of India. The automotive industry is an engine of growth for the Indian economy. The auto component industry contributes 2.3% to National GDP, providing direct employment to 1.5 million people.",
+          "confidence": 0.88,
+          "entity_tags": [
+            "market_analysis"
+          ]
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00060",
+          "score": 0.7461,
+          "page_start": 0,
+          "page_end": 0,
+          "section": "market_news",
+          "citation_anchor": "https://www.autocarpro.in/",
+          "content_preview": "Latest Auto industry News, Insights, Updates and Reports from .... 17 hours ago · Latest Auto industry News, Insights, Updates and Reports from India’s leading automobile industry magazine",
+          "confidence": 0.78,
+          "entity_tags": [
+            "market_analysis"
+          ]
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00061",
+          "score": 0.7159,
+          "page_start": 0,
+          "page_end": 0,
+          "section": "market_news",
+          "citation_anchor": "https://www.autocarpro.in/news/rd-scale-key-to-making-indian-automotive-sector-globally-competitive-mhis-qureshi-129714",
+          "content_preview": "R&D, Scale Key to Making Indian Automotive Sector Globally .... Nov 11, 2025 · The automotive industry's transformation toward software-defined vehicles presents both challenges and opportunities for India.",
+          "confidence": 0.78,
+          "entity_tags": [
+            "market_analysis"
+          ]
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00052",
+          "score": 0.7013,
+          "page_start": 0,
+          "page_end": 0,
+          "section": "industry_trends",
+          "citation_anchor": "https://www.acma.in/uploads/publication/research-studies/acma-report-sep-25.pdf",
+          "content_preview": "Shaping the future of India’s auto component industry amid .... India’s auto component industry stands at a pivotal moment, with shifting global trade dynamics and the country’s favorable manufacturing ecosystem presenting an opportunity to make progress to...",
+          "confidence": 0.88,
+          "entity_tags": [
+            "capacity",
+            "market_analysis"
+          ]
+        }
+      ]
+    },
+    "research": {
+      "organizations": [
+        {
+          "name": "Automotive Component Manufacturers Association of India",
+          "category": "Industry Association",
+          "priority_score_0_to_100": 75,
+          "fit_explanation": "A key player in the automotive sector, focusing on growth and employment, which aligns with industry insights.",
+          "supporting_citations": [
+            {
+              "chunk_id": "india_auto_market_v1_c00047",
+              "citation_anchor": "https://www.acma.in/about-us.php"
+            }
+          ]
+        },
+        {
+          "name": "Industry Business Environment",
+          "category": "Market Analysis",
+          "priority_score_0_to_100": 70,
+          "fit_explanation": "Provides insights into the dynamics of the Indian automotive market, relevant for various stakeholders.",
+          "supporting_citations": [
+            {
+              "chunk_id": "india_auto_market_v1_c00032",
+              "citation_anchor": "https://www.ibef.org/industry/india-automobiles"
+            }
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "description": "Utilize Warranty Analytics to optimize dealer performance.",
+          "category": "General",
+          "supporting_citations": []
+        },
+        {
+          "description": "Engagement in Supply-Chain Risk Prediction to mitigate disruptions.",
+          "category": "General",
+          "supporting_citations": []
+        }
+      ],
+      "trend_summary": [
+        "EV adoption and electrification continues to shape strategy."
+      ],
+      "assumptions": [
+        "The automotive industry in India is projected to grow with increased investments.",
+        "There is a rising demand for analytics services in the automotive sector."
+      ]
+    },
+    "validation": {
+      "overall_confidence": 0.79,
+      "warnings": [
+        "Some opportunities lack supporting citations, reducing confidence in their validation.",
+        "2 organization(s) failed strict citation-confidence gates."
+      ],
+      "validated_organizations": [
+        {
+          "name": "Automotive Component Manufacturers Association of India",
+          "fit_explanation": "",
+          "supporting_citations": []
+        },
+        {
+          "name": "Industry Business Environment",
+          "fit_explanation": "",
+          "supporting_citations": []
+        }
+      ],
+      "must_review_items": [
+        {
+          "item": "opportunities",
+          "reason": "No supporting citations available."
+        },
+        {
+          "item": "opportunities",
+          "reason": "No supporting citations available."
+        }
+      ],
+      "gates": {
+        "min_citations_per_org": 2,
+        "min_confidence_per_citation": 0.75,
+        "failed_organizations": 2,
+        "results": [
+          {
+            "organization": "Automotive Component Manufacturers Association of India",
+            "citation_count": 1,
+            "high_confidence_citation_count": 1,
+            "min_citations_required": 2,
+            "min_confidence_required": 0.75,
+            "passes_gate": false
+          },
+          {
+            "organization": "Industry Business Environment",
+            "citation_count": 1,
+            "high_confidence_citation_count": 1,
+            "min_citations_required": 2,
+            "min_confidence_required": 0.75,
+            "passes_gate": false
+          }
+        ]
+      }
+    },
+    "scoring_rubric": {
+      "service_alignment": "Signals where analytics/forecasting, demand planning, quality analytics, or connected operations are relevant.",
+      "urgency": "Signals of immediate pressure: margin squeeze, demand volatility, recalls, compliance pressure.",
+      "execution_readiness": "Signals of digital maturity and adoption readiness.",
+      "commercial_potential": "Potential consulting scope breadth and depth."
+    }
+  },
+  "refresh_company_data": "true",
+  "ingestion": {
+    "signals_file": "/content/extraction_output/company_signals.json",
+    "news_file": "/content/extraction_output/company_news.json",
+    "chunks_file": "/content/extraction_output/company_chunks.jsonl",
+    "report_file": "/content/extraction_output/company_ingestion_report.json",
+    "index_report": {
+      "generated_at": "2026-07-11T17:52:06.993003+00:00",
+      "run_id": "20260711T175205Z-34b619da",
+      "collection_name": "company_profiles_chunks",
+      "persist_dir": "/content/extraction_output/chroma_db",
+      "source_chunks_file": "/content/extraction_output/company_chunks.jsonl",
+      "source_file_hash": "b1510d6daafc60e3df43f6583ae751f16cba343965d209c51cd692ee1404f8f9",
+      "indexed_chunks": 13,
+      "total_in_collection": 13
+    }
+  },
+  "candidate_count": 16,
+  "profile_count": 16,
+  "top_n": 10,
+  "artifacts": {
+    "profiles_jsonl": "/content/extraction_output/company_research/company_profiles.jsonl",
+    "profiles_json": "/content/extraction_output/company_research/company_profiles.json",
+    "prioritization_json": "/content/extraction_output/company_research/company_prioritization.json",
+    "prioritization_markdown": "/content/extraction_output/company_research/prioritized_top10.md"
+  }
+}

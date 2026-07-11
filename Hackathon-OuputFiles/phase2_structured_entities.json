@@ -1,0 +1,980 @@
+{
+  "generated_at": "2026-07-11T17:48:18.937358+00:00",
+  "source_pages_file": "/content/extraction_output/phase1_pages.jsonl",
+  "source_report_file": "/content/extraction_output/phase1_extraction_report.json",
+  "entities": {
+    "services": [
+      {
+        "value": "Warranty Analytics",
+        "page_number": 7,
+        "source_type": "text",
+        "evidence": "1. Warranty Analytics",
+        "confidence": 0.95
+      },
+      {
+        "value": "Supply-Chain Risk Prediction",
+        "page_number": 9,
+        "source_type": "text",
+        "evidence": "2. Supply-Chain Risk Prediction",
+        "confidence": 0.95
+      },
+      {
+        "value": "Dealer & Field Service Intelligence",
+        "page_number": 11,
+        "source_type": "text",
+        "evidence": "3. Dealer & Field Service Intelligence",
+        "confidence": 0.95
+      }
+    ],
+    "pricing": [
+      {
+        "value": "Pricing & Engagement Models ..............................................................................................................",
+        "page_number": 2,
+        "source_type": "text",
+        "evidence": "Pricing & Engagement Models ..............................................................................................................",
+        "confidence": 0.8
+      },
+      {
+        "value": "Pricing & Engagement Models ..............................................................................................................",
+        "page_number": 3,
+        "source_type": "text",
+        "evidence": "Pricing & Engagement Models ..............................................................................................................",
+        "confidence": 0.8
+      },
+      {
+        "value": "Pricing & Engagement Models",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Pricing & Engagement Models",
+        "confidence": 0.8
+      },
+      {
+        "value": "All pricing is custom-quoted after an initial scoping session; the",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "All pricing is custom-quoted after an initial scoping session; the",
+        "confidence": 0.8
+      },
+      {
+        "value": "Engagement Model Description Best Suited For",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Engagement Model Description Best Suited For",
+        "confidence": 0.8
+      },
+      {
+        "value": "Fixed-Price Project Defined scope delivered for a lump-sum fee.",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Fixed-Price Project Defined scope delivered for a lump-sum fee.",
+        "confidence": 0.8
+      },
+      {
+        "value": "Managed Service / Monthly retainer covering hosting, Ongoing analytics with",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Managed Service / Monthly retainer covering hosting, Ongoing analytics with",
+        "confidence": 0.8
+      },
+      {
+        "value": "Subscription maintenance, monitoring, and periodic continuous updates",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Subscription maintenance, monitoring, and periodic continuous updates",
+        "confidence": 0.8
+      },
+      {
+        "value": "Revenue-Share / Success Co-development with fee tied to agreed KPI Performance-driven partnerships",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Revenue-Share / Success Co-development with fee tied to agreed KPI Performance-driven partnerships",
+        "confidence": 0.8
+      },
+      {
+        "value": "Fee improvements.",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Fee improvements.",
+        "confidence": 0.8
+      },
+      {
+        "value": "Indicatively, analytics engagements typically range from a few lakhs (for small proof-of-concepts) to several",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Indicatively, analytics engagements typically range from a few lakhs (for small proof-of-concepts) to several",
+        "confidence": 0.8
+      },
+      {
+        "value": "crores of rupees for full enterprise-scale deployments.",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "crores of rupees for full enterprise-scale deployments.",
+        "confidence": 0.8
+      },
+      {
+        "value": "Final pricing is confirmed following the discovery",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Final pricing is confirmed following the discovery",
+        "confidence": 0.8
+      },
+      {
+        "value": "We can also provide a phased commercial structure where costs align with each phase of delivery.",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "We can also provide a phased commercial structure where costs align with each phase of delivery.",
+        "confidence": 0.8
+      },
+      {
+        "value": "Engagement Model | Description | Best Suited For",
+        "page_number": 16,
+        "source_type": "table",
+        "evidence": "Engagement Model | Description | Best Suited For",
+        "confidence": 0.84
+      },
+      {
+        "value": "Fixed-Price Project | Defined scope delivered for a lump-sum fee. | Well-scoped requirements, first-",
+        "page_number": 16,
+        "source_type": "table",
+        "evidence": "Fixed-Price Project | Defined scope delivered for a lump-sum fee. | Well-scoped requirements, first-",
+        "confidence": 0.84
+      },
+      {
+        "value": "Managed Service / Subscription | Monthly retainer covering hosting, | Ongoing analytics with continuous updates",
+        "page_number": 16,
+        "source_type": "table",
+        "evidence": "Managed Service / Subscription | Monthly retainer covering hosting, | Ongoing analytics with continuous updates",
+        "confidence": 0.84
+      },
+      {
+        "value": "Revenue-Share / Success | Co-development with fee tied to agreed KPI | Performance-driven partnerships",
+        "page_number": 16,
+        "source_type": "table",
+        "evidence": "Revenue-Share / Success | Co-development with fee tied to agreed KPI | Performance-driven partnerships",
+        "confidence": 0.84
+      },
+      {
+        "value": "Fee | improvements.",
+        "page_number": 16,
+        "source_type": "table",
+        "evidence": "Fee | improvements.",
+        "confidence": 0.84
+      },
+      {
+        "value": "Subscription",
+        "page_number": 16,
+        "source_type": "table",
+        "evidence": "Subscription",
+        "confidence": 0.84
+      },
+      {
+        "value": "• Pricing & Engagement Models - summary tableSlide 8:",
+        "page_number": 18,
+        "source_type": "text",
+        "evidence": "• Pricing & Engagement Models - summary tableSlide 8:",
+        "confidence": 0.8
+      },
+      {
+        "value": "lakhs; full enterprise deployments may run to several crores.",
+        "page_number": 19,
+        "source_type": "text",
+        "evidence": "lakhs; full enterprise deployments may run to several crores.",
+        "confidence": 0.8
+      }
+    ],
+    "delivery_approach": [
+      {
+        "value": "Technical Approach ...............................................................................................................................",
+        "page_number": 2,
+        "source_type": "text",
+        "evidence": "Technical Approach ...............................................................................................................................",
+        "confidence": 0.78
+      },
+      {
+        "value": "Data Ingestion & Lake ...............................................................................................................................",
+        "page_number": 2,
+        "source_type": "text",
+        "evidence": "Data Ingestion & Lake ...............................................................................................................................",
+        "confidence": 0.78
+      },
+      {
+        "value": "Data Pipeline & Transformation ................................................................................................................",
+        "page_number": 2,
+        "source_type": "text",
+        "evidence": "Data Pipeline & Transformation ................................................................................................................",
+        "confidence": 0.78
+      },
+      {
+        "value": "Analytics & Machine Learning ...................................................................................................................",
+        "page_number": 2,
+        "source_type": "text",
+        "evidence": "Analytics & Machine Learning ...................................................................................................................",
+        "confidence": 0.78
+      },
+      {
+        "value": "Visualisation, Alerts & Security .................................................................................................................",
+        "page_number": 2,
+        "source_type": "text",
+        "evidence": "Visualisation, Alerts & Security .................................................................................................................",
+        "confidence": 0.78
+      },
+      {
+        "value": "Pricing & Engagement Models ..............................................................................................................",
+        "page_number": 2,
+        "source_type": "text",
+        "evidence": "Pricing & Engagement Models ..............................................................................................................",
+        "confidence": 0.78
+      },
+      {
+        "value": "Technical Approach ...............................................................................................................................",
+        "page_number": 3,
+        "source_type": "text",
+        "evidence": "Technical Approach ...............................................................................................................................",
+        "confidence": 0.78
+      },
+      {
+        "value": "Pricing & Engagement Models ..............................................................................................................",
+        "page_number": 3,
+        "source_type": "text",
+        "evidence": "Pricing & Engagement Models ..............................................................................................................",
+        "confidence": 0.78
+      },
+      {
+        "value": "with KPIs, data requirements, technical approach, implementation roadmap, pricing models, case studies,",
+        "page_number": 4,
+        "source_type": "text",
+        "evidence": "with KPIs, data requirements, technical approach, implementation roadmap, pricing models, case studies,",
+        "confidence": 0.78
+      },
+      {
+        "value": "We deliver complete, end-to-end solutions: from data integration and machine learning model",
+        "page_number": 5,
+        "source_type": "text",
+        "evidence": "We deliver complete, end-to-end solutions: from data integration and machine learning model",
+        "confidence": 0.78
+      },
+      {
+        "value": "development, through to interactive dashboards, automated alerts, and ongoing operational support.",
+        "page_number": 5,
+        "source_type": "text",
+        "evidence": "development, through to interactive dashboards, automated alerts, and ongoing operational support.",
+        "confidence": 0.78
+      },
+      {
+        "value": "Data security and intellectual property ownership are central to how we operate:",
+        "page_number": 5,
+        "source_type": "text",
+        "evidence": "Data security and intellectual property ownership are central to how we operate:",
+        "confidence": 0.78
+      },
+      {
+        "value": "• All models, dashboards, and outputs developed on your data become your property.",
+        "page_number": 5,
+        "source_type": "text",
+        "evidence": "• All models, dashboards, and outputs developed on your data become your property.",
+        "confidence": 0.78
+      },
+      {
+        "value": "• We apply industry-standard security throughout - encryption in transit and at rest, role-based access",
+        "page_number": 5,
+        "source_type": "text",
+        "evidence": "• We apply industry-standard security throughout - encryption in transit and at rest, role-based access",
+        "confidence": 0.78
+      },
+      {
+        "value": "year, and over 250 new models are expected to enter the market in the coming years.",
+        "page_number": 6,
+        "source_type": "text",
+        "evidence": "year, and over 250 new models are expected to enter the market in the coming years.",
+        "confidence": 0.78
+      },
+      {
+        "value": "Using machine learning, we",
+        "page_number": 7,
+        "source_type": "text",
+        "evidence": "Using machine learning, we",
+        "confidence": 0.78
+      },
+      {
+        "value": "• Predictive models estimating failure probability within a defined window (e.g., next 6 months)",
+        "page_number": 7,
+        "source_type": "text",
+        "evidence": "• Predictive models estimating failure probability within a defined window (e.g., next 6 months)",
+        "confidence": 0.78
+      },
+      {
+        "value": "• Early-warning alerts triggered by statistically significant claim spikes",
+        "page_number": 7,
+        "source_type": "text",
+        "evidence": "• Early-warning alerts triggered by statistically significant claim spikes",
+        "confidence": 0.78
+      },
+      {
+        "value": "Defects per 1,000 Industry-standard quality metric at model and component level",
+        "page_number": 7,
+        "source_type": "text",
+        "evidence": "Defects per 1,000 Industry-standard quality metric at model and component level",
+        "confidence": 0.78
+      },
+      {
+        "value": "• Automated email/SMS alerts for significant claim spikes or quality metric drops.Alerts:",
+        "page_number": 8,
+        "source_type": "text",
+        "evidence": "• Automated email/SMS alerts for significant claim spikes or quality metric drops.Alerts:",
+        "confidence": 0.78
+      },
+      {
+        "value": "• Trained forecasting and classification models integrated via API into your PLM or ERP systems.ML",
+        "page_number": 8,
+        "source_type": "text",
+        "evidence": "• Trained forecasting and classification models integrated via API into your PLM or ERP systems.ML",
+        "confidence": 0.78
+      },
+      {
+        "value": "Models:",
+        "page_number": 8,
+        "source_type": "text",
+        "evidence": "Models:",
+        "confidence": 0.78
+      },
+      {
+        "value": "AI models assess risk at every node in the network, simulate the downstream impact of potential",
+        "page_number": 9,
+        "source_type": "text",
+        "evidence": "AI models assess risk at every node in the network, simulate the downstream impact of potential",
+        "confidence": 0.78
+      },
+      {
+        "value": "• Disruption simulation - modelling the production impact of a supplier failure or material shortage",
+        "page_number": 9,
+        "source_type": "text",
+        "evidence": "• Disruption simulation - modelling the production impact of a supplier failure or material shortage",
+        "confidence": 0.78
+      },
+      {
+        "value": "avoiding seven-figure losses over six months by acting on early risk alerts from a supply-chain control tower.",
+        "page_number": 9,
+        "source_type": "text",
+        "evidence": "avoiding seven-figure losses over six months by acting on early risk alerts from a supply-chain control tower.",
+        "confidence": 0.78
+      },
+      {
+        "value": "defined thresholds.Alerts:",
+        "page_number": 10,
+        "source_type": "text",
+        "evidence": "defined thresholds.Alerts:",
+        "confidence": 0.78
+      },
+      {
+        "value": "optimisation.Models:",
+        "page_number": 10,
+        "source_type": "text",
+        "evidence": "optimisation.Models:",
+        "confidence": 0.78
+      },
+      {
+        "value": "• Lead-scoring models estimating conversion likelihood for incoming prospects",
+        "page_number": 11,
+        "source_type": "text",
+        "evidence": "• Lead-scoring models estimating conversion likelihood for incoming prospects",
+        "confidence": 0.78
+      },
+      {
+        "value": "drops.Alerts:",
+        "page_number": 12,
+        "source_type": "text",
+        "evidence": "drops.Alerts:",
+        "confidence": 0.78
+      },
+      {
+        "value": "• Service demand forecasting and lead-conversion probability models.Models:",
+        "page_number": 12,
+        "source_type": "text",
+        "evidence": "• Service demand forecasting and lead-conversion probability models.Models:",
+        "confidence": 0.78
+      },
+      {
+        "value": "In practice, we extract and normalise data through ETL pipelines, typically storing raw data in secure cloud",
+        "page_number": 13,
+        "source_type": "text",
+        "evidence": "In practice, we extract and normalise data through ETL pipelines, typically storing raw data in secure cloud",
+        "confidence": 0.78
+      },
+      {
+        "value": "Technical Approach",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "Technical Approach",
+        "confidence": 0.78
+      },
+      {
+        "value": "and security.",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "and security.",
+        "confidence": 0.78
+      },
+      {
+        "value": "Data Ingestion & Lake",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "Data Ingestion & Lake",
+        "confidence": 0.78
+      },
+      {
+        "value": "Data Pipeline & Transformation",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "Data Pipeline & Transformation",
+        "confidence": 0.78
+      },
+      {
+        "value": "ETL/ELT tools (AWS Glue, Azure Data Factory, or equivalent open-source pipelines) clean, standardise, and",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "ETL/ELT tools (AWS Glue, Azure Data Factory, or equivalent open-source pipelines) clean, standardise, and",
+        "confidence": 0.78
+      },
+      {
+        "value": "Analytics & Machine Learning",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "Analytics & Machine Learning",
+        "confidence": 0.78
+      },
+      {
+        "value": "Data scientists build and maintain ML models using Python-based frameworks (scikit-learn, TensorFlow,",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "Data scientists build and maintain ML models using Python-based frameworks (scikit-learn, TensorFlow,",
+        "confidence": 0.78
+      },
+      {
+        "value": "Models include time-series forecasters",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "Models include time-series forecasters",
+        "confidence": 0.78
+      },
+      {
+        "value": "All models are built",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "All models are built",
+        "confidence": 0.78
+      },
+      {
+        "value": "Visualisation, Alerts & Security",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "Visualisation, Alerts & Security",
+        "confidence": 0.78
+      },
+      {
+        "value": "Model outputs feed into BI dashboards (Power BI, Tableau, AWS QuickSight) with role-based views -",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "Model outputs feed into BI dashboards (Power BI, Tableau, AWS QuickSight) with role-based views -",
+        "confidence": 0.78
+      },
+      {
+        "value": "Alerts are delivered via email or messaging",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "Alerts are delivered via email or messaging",
+        "confidence": 0.78
+      },
+      {
+        "value": "Data Flow (Example): Raw dealer data → Secure Data Lake → ETL pipeline (cleanse & aggregate) → Data",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "Data Flow (Example): Raw dealer data → Secure Data Lake → ETL pipeline (cleanse & aggregate) → Data",
+        "confidence": 0.78
+      },
+      {
+        "value": "Warehouse → ML models (forecast demand, score anomalies) → BI dashboards → Role-based alerts and",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "Warehouse → ML models (forecast demand, score anomalies) → BI dashboards → Role-based alerts and",
+        "confidence": 0.78
+      },
+      {
+        "value": "Clients begin seeing working dashboards and alerts within the first three",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "Clients begin seeing working dashboards and alerts within the first three",
+        "confidence": 0.78
+      },
+      {
+        "value": "Phase 2 Months 4-7 ML model development, ETL Trained models, tested",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "Phase 2 Months 4-7 ML model development, ETL Trained models, tested",
+        "confidence": 0.78
+      },
+      {
+        "value": "Development pipeline build, dashboard dashboards, pilot results",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "Development pipeline build, dashboard dashboards, pilot results",
+        "confidence": 0.78
+      },
+      {
+        "value": "user training, model monitoring platform, training",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "user training, model monitoring platform, training",
+        "confidence": 0.78
+      },
+      {
+        "value": "production-grade models; Phase 3 achieves full operational deployment with monitoring and optimisation in",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "production-grade models; Phase 3 achieves full operational deployment with monitoring and optimisation in",
+        "confidence": 0.78
+      },
+      {
+        "value": "Pricing & Engagement Models",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Pricing & Engagement Models",
+        "confidence": 0.78
+      },
+      {
+        "value": "table below describes the available models.",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "table below describes the available models.",
+        "confidence": 0.78
+      },
+      {
+        "value": "Engagement Model Description Best Suited For",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Engagement Model Description Best Suited For",
+        "confidence": 0.78
+      },
+      {
+        "value": "alerts allowed the company to re-route and pre-empt disruptions, avoiding losses that would otherwise",
+        "page_number": 17,
+        "source_type": "text",
+        "evidence": "alerts allowed the company to re-route and pre-empt disruptions, avoiding losses that would otherwise",
+        "confidence": 0.78
+      },
+      {
+        "value": "A conservative model - a 5% reduction in warranty costs combined with a 2% uplift",
+        "page_number": 17,
+        "source_type": "text",
+        "evidence": "A conservative model - a 5% reduction in warranty costs combined with a 2% uplift",
+        "confidence": 0.78
+      },
+      {
+        "value": "• Pricing & Engagement Models - summary tableSlide 8:",
+        "page_number": 18,
+        "source_type": "text",
+        "evidence": "• Pricing & Engagement Models - summary tableSlide 8:",
+        "confidence": 0.78
+      },
+      {
+        "value": "- produces more sophisticated models.",
+        "page_number": 19,
+        "source_type": "text",
+        "evidence": "- produces more sophisticated models.",
+        "confidence": 0.78
+      },
+      {
+        "value": "Q: Who owns the models and outputs?",
+        "page_number": 19,
+        "source_type": "text",
+        "evidence": "Q: Who owns the models and outputs?",
+        "confidence": 0.78
+      },
+      {
+        "value": "All models, dashboards, and code developed using your",
+        "page_number": 19,
+        "source_type": "text",
+        "evidence": "All models, dashboards, and code developed using your",
+        "confidence": 0.78
+      },
+      {
+        "value": "Working dashboards and early alerts are typically available within 3-4",
+        "page_number": 19,
+        "source_type": "text",
+        "evidence": "Working dashboards and early alerts are typically available within 3-4",
+        "confidence": 0.78
+      }
+    ],
+    "timelines": [
+      {
+        "value": "We work with clients during Phase 1 to",
+        "page_number": 13,
+        "source_type": "text",
+        "evidence": "We work with clients during Phase 1 to",
+        "confidence": 0.82
+      },
+      {
+        "value": "Phase 1 Months 1-3 Data audit & requirements Data integration plan, PoC",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "Phase 1 Months 1-3 Data audit & requirements Data integration plan, PoC",
+        "confidence": 0.82
+      },
+      {
+        "value": "Phase 2 Months 4-7 ML model development, ETL Trained models, tested",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "Phase 2 Months 4-7 ML model development, ETL Trained models, tested",
+        "confidence": 0.82
+      },
+      {
+        "value": "Phase 3 Rollout Months 8-12 Full deployment to all stakeholders, Production-ready",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "Phase 3 Rollout Months 8-12 Full deployment to all stakeholders, Production-ready",
+        "confidence": 0.82
+      },
+      {
+        "value": "Each phase is designed to stand on its own: Phase 1 produces a working proof-of-concept; Phase 2 delivers",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "Each phase is designed to stand on its own: Phase 1 produces a working proof-of-concept; Phase 2 delivers",
+        "confidence": 0.82
+      },
+      {
+        "value": "production-grade models; Phase 3 achieves full operational deployment with monitoring and optimisation in",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "production-grade models; Phase 3 achieves full operational deployment with monitoring and optimisation in",
+        "confidence": 0.82
+      },
+      {
+        "value": "Phase 1 Discovery | Months 1-3 | Data audit & requirements | Data integration plan, PoC",
+        "page_number": 15,
+        "source_type": "table",
+        "evidence": "Phase 1 Discovery | Months 1-3 | Data audit & requirements | Data integration plan, PoC",
+        "confidence": 0.88
+      },
+      {
+        "value": "Phase 2 Development | Months 4-7 | ML model development, ETL | Trained models, tested dashboards, pilot results report",
+        "page_number": 15,
+        "source_type": "table",
+        "evidence": "Phase 2 Development | Months 4-7 | ML model development, ETL | Trained models, tested dashboards, pilot results report",
+        "confidence": 0.88
+      },
+      {
+        "value": "Phase 3 Rollout | Months 8-12 | Full deployment to all stakeholders, | Production-ready",
+        "page_number": 15,
+        "source_type": "table",
+        "evidence": "Phase 3 Rollout | Months 8-12 | Full deployment to all stakeholders, | Production-ready",
+        "confidence": 0.88
+      },
+      {
+        "value": "Phase 1",
+        "page_number": 15,
+        "source_type": "table",
+        "evidence": "Phase 1",
+        "confidence": 0.88
+      },
+      {
+        "value": "Phase 2",
+        "page_number": 15,
+        "source_type": "table",
+        "evidence": "Phase 2",
+        "confidence": 0.88
+      },
+      {
+        "value": "Data cleansing and governance are embedded into Phase 1, so",
+        "page_number": 19,
+        "source_type": "text",
+        "evidence": "Data cleansing and governance are embedded into Phase 1, so",
+        "confidence": 0.82
+      },
+      {
+        "value": "Phase 1 is specifically",
+        "page_number": 19,
+        "source_type": "text",
+        "evidence": "Phase 1 is specifically",
+        "confidence": 0.82
+      },
+      {
+        "value": "months (end of Phase 1).",
+        "page_number": 19,
+        "source_type": "text",
+        "evidence": "months (end of Phase 1).",
+        "confidence": 0.82
+      },
+      {
+        "value": "end of Phase 2 (months 6-9).",
+        "page_number": 19,
+        "source_type": "text",
+        "evidence": "end of Phase 2 (months 6-9).",
+        "confidence": 0.82
+      },
+      {
+        "value": "metrics.Step 2 - Discovery Workshop (1-2 weeks):",
+        "page_number": 20,
+        "source_type": "text",
+        "evidence": "metrics.Step 2 - Discovery Workshop (1-2 weeks):",
+        "confidence": 0.82
+      }
+    ],
+    "sla_terms": [
+      {
+        "value": "development, through to interactive dashboards, automated alerts, and ongoing operational support.",
+        "page_number": 5,
+        "source_type": "text",
+        "evidence": "development, through to interactive dashboards, automated alerts, and ongoing operational support.",
+        "confidence": 0.74
+      },
+      {
+        "value": "• Monitoring of external risk signals: weather events, political developments, port closures, supplier",
+        "page_number": 9,
+        "source_type": "text",
+        "evidence": "• Monitoring of external risk signals: weather events, political developments, port closures, supplier",
+        "confidence": 0.74
+      },
+      {
+        "value": "Parts Availability Percentage of required parts available on hand at any given time",
+        "page_number": 9,
+        "source_type": "text",
+        "evidence": "Parts Availability Percentage of required parts available on hand at any given time",
+        "confidence": 0.74
+      },
+      {
+        "value": "Days of Inventory Number of days of production that current stock can support",
+        "page_number": 9,
+        "source_type": "text",
+        "evidence": "Days of Inventory Number of days of production that current stock can support",
+        "confidence": 0.74
+      },
+      {
+        "value": "Parts Availability | Percentage of required parts available on hand at any given time",
+        "page_number": 9,
+        "source_type": "table",
+        "evidence": "Parts Availability | Percentage of required parts available on hand at any given time",
+        "confidence": 0.76
+      },
+      {
+        "value": "Days of Inventory | Number of days of production that current stock can support",
+        "page_number": 9,
+        "source_type": "table",
+        "evidence": "Days of Inventory | Number of days of production that current stock can support",
+        "confidence": 0.76
+      },
+      {
+        "value": "responses.Reports:",
+        "page_number": 10,
+        "source_type": "text",
+        "evidence": "responses.Reports:",
+        "confidence": 0.74
+      },
+      {
+        "value": "A metadata catalogue supports data governance and lineage tracking.",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "A metadata catalogue supports data governance and lineage tracking.",
+        "confidence": 0.74
+      },
+      {
+        "value": "This supports natural-language Q&A interfaces and makes the platform accessible",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "This supports natural-language Q&A interfaces and makes the platform accessible",
+        "confidence": 0.74
+      },
+      {
+        "value": "user training, model monitoring platform, training",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "user training, model monitoring platform, training",
+        "confidence": 0.74
+      },
+      {
+        "value": "setup, optimisation based on materials, SLA-backed",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "setup, optimisation based on materials, SLA-backed",
+        "confidence": 0.74
+      },
+      {
+        "value": "feedback support",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "feedback support",
+        "confidence": 0.74
+      },
+      {
+        "value": "production-grade models; Phase 3 achieves full operational deployment with monitoring and optimisation in",
+        "page_number": 15,
+        "source_type": "text",
+        "evidence": "production-grade models; Phase 3 achieves full operational deployment with monitoring and optimisation in",
+        "confidence": 0.74
+      },
+      {
+        "value": "user training, model monitoring | platform, training",
+        "page_number": 15,
+        "source_type": "table",
+        "evidence": "user training, model monitoring | platform, training",
+        "confidence": 0.76
+      },
+      {
+        "value": "setup, optimisation based on | materials, SLA-backed",
+        "page_number": 15,
+        "source_type": "table",
+        "evidence": "setup, optimisation based on | materials, SLA-backed",
+        "confidence": 0.76
+      },
+      {
+        "value": "feedback | support",
+        "page_number": 15,
+        "source_type": "table",
+        "evidence": "feedback | support",
+        "confidence": 0.76
+      },
+      {
+        "value": "Subscription maintenance, monitoring, and periodic continuous updates",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Subscription maintenance, monitoring, and periodic continuous updates",
+        "confidence": 0.74
+      },
+      {
+        "value": "maintenance, monitoring, and periodic",
+        "page_number": 16,
+        "source_type": "table",
+        "evidence": "maintenance, monitoring, and periodic",
+        "confidence": 0.76
+      },
+      {
+        "value": "Nissan deployed a supply-chain control tower with AI-based risk monitoring - tracking weather events, port",
+        "page_number": 17,
+        "source_type": "text",
+        "evidence": "Nissan deployed a supply-chain control tower with AI-based risk monitoring - tracking weather events, port",
+        "confidence": 0.74
+      }
+    ],
+    "exclusions": [],
+    "assumptions": [
+      {
+        "value": "• All client data is kept strictly confidential under a signed NDA.",
+        "page_number": 5,
+        "source_type": "text",
+        "evidence": "• All client data is kept strictly confidential under a signed NDA.",
+        "confidence": 0.72
+      },
+      {
+        "value": "• We apply industry-standard security throughout - encryption in transit and at rest, role-based access",
+        "page_number": 5,
+        "source_type": "text",
+        "evidence": "• We apply industry-standard security throughout - encryption in transit and at rest, role-based access",
+        "confidence": 0.72
+      },
+      {
+        "value": "- an opportunity that requires better data to capture.",
+        "page_number": 6,
+        "source_type": "text",
+        "evidence": "- an opportunity that requires better data to capture.",
+        "confidence": 0.72
+      },
+      {
+        "value": "Defects per 1,000 Industry-standard quality metric at model and component level",
+        "page_number": 7,
+        "source_type": "text",
+        "evidence": "Defects per 1,000 Industry-standard quality metric at model and component level",
+        "confidence": 0.72
+      },
+      {
+        "value": "CSI Score Customer Satisfaction Index - standardised quality of service metric",
+        "page_number": 12,
+        "source_type": "text",
+        "evidence": "CSI Score Customer Satisfaction Index - standardised quality of service metric",
+        "confidence": 0.72
+      },
+      {
+        "value": "ETL/ELT tools (AWS Glue, Azure Data Factory, or equivalent open-source pipelines) clean, standardise, and",
+        "page_number": 14,
+        "source_type": "text",
+        "evidence": "ETL/ELT tools (AWS Glue, Azure Data Factory, or equivalent open-source pipelines) clean, standardise, and",
+        "confidence": 0.72
+      },
+      {
+        "value": "minimum viable starting point includes historical warranty claims (with dates and defect codes), a supplier",
+        "page_number": 19,
+        "source_type": "text",
+        "evidence": "minimum viable starting point includes historical warranty claims (with dates and defect codes), a supplier",
+        "confidence": 0.72
+      },
+      {
+        "value": "Confidentiality All discussions are covered by NDA on request",
+        "page_number": 20,
+        "source_type": "text",
+        "evidence": "Confidentiality All discussions are covered by NDA on request",
+        "confidence": 0.72
+      }
+    ],
+    "engagement_models": [
+      {
+        "value": "Fixed-Price Project",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Fixed-Price Project",
+        "confidence": 0.9
+      },
+      {
+        "value": "Time & Materials",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Time & Materials",
+        "confidence": 0.9
+      },
+      {
+        "value": "Revenue-Share / Success Fee",
+        "page_number": 16,
+        "source_type": "text",
+        "evidence": "Revenue-Share / Success Fee",
+        "confidence": 0.9
+      },
+      {
+        "value": "Managed Service / Subscription",
+        "page_number": 16,
+        "source_type": "table",
+        "evidence": "Managed Service / Subscription | Monthly retainer covering hosting, | Ongoing analytics with continuous updates",
+        "confidence": 0.92
+      }
+    ]
+  },
+  "stats": {
+    "total_pages": 20,
+    "entity_counts": {
+      "services": 3,
+      "pricing": 22,
+      "delivery_approach": 60,
+      "timelines": 16,
+      "sla_terms": 19,
+      "exclusions": 0,
+      "assumptions": 8,
+      "engagement_models": 4
+    },
+    "pages_with_entities": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  }
+}

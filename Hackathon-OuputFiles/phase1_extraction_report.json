@@ -1,0 +1,360 @@
+{
+  "pdf_path": "XYZ Analytics Consulting – Product & Solutions Handbook (1).pdf",
+  "total_pages": 20,
+  "readable_pages": 20,
+  "scanned_pages": 0,
+  "table_heavy_pages": [
+    13,
+    15,
+    16
+  ],
+  "section_heading_candidates": [
+    {
+      "page_number": 1,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 1,
+      "heading": "AUTOMOTIVE ANALYTICS SOLUTIONS",
+      "kind": "all_caps"
+    },
+    {
+      "page_number": 1,
+      "heading": "Executive Summary",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 1,
+      "heading": "June 2026",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 2,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 3,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 4,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 4,
+      "heading": "Executive Summary",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 5,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 5,
+      "heading": "Company Overview",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 6,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 6,
+      "heading": "Market Context — India Automotive",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 6,
+      "heading": "Key Market Pressures",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 7,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 7,
+      "heading": "Service Descriptions",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 7,
+      "heading": "1. Warranty Analytics",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 7,
+      "heading": "What We Do",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 7,
+      "heading": "Key Capabilities",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 7,
+      "heading": "Business Value",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 7,
+      "heading": "Vehicles",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 7,
+      "heading": "Unit",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 8,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 8,
+      "heading": "Deliverables",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 8,
+      "heading": "Models:",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 9,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 9,
+      "heading": "2. Supply-Chain Risk Prediction",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 9,
+      "heading": "What We Do",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 9,
+      "heading": "Key Capabilities",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 9,
+      "heading": "Business Value",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 10,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 10,
+      "heading": "Deliverables",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 11,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 11,
+      "heading": "3. Dealer & Field Service Intelligence",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 11,
+      "heading": "What We Do",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 11,
+      "heading": "Key Capabilities",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 11,
+      "heading": "Business Value",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 11,
+      "heading": "Rate",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 11,
+      "heading": "%",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 12,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 12,
+      "heading": "Deliverables",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 13,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 13,
+      "heading": "Data Requirements & Sources",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 13,
+      "heading": "Data Source Examples Used In",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 14,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 14,
+      "heading": "Technical Approach",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 14,
+      "heading": "1. Data Ingestion & Lake",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 14,
+      "heading": "2. Data Pipeline & Transformation",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 14,
+      "heading": "3. Analytics & Machine Learning",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 14,
+      "heading": "5. Visualisation, Alerts & Security",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 15,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 15,
+      "heading": "Implementation Roadmap",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 15,
+      "heading": "Phase Timeline Key Activities Deliverables",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 16,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 16,
+      "heading": "Pricing & Engagement Models",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 16,
+      "heading": "Engagement Model Description Best Suited For",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 17,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 17,
+      "heading": "Supply-Chain Risk — Nissan Avoids Seven-Figure Losses",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 18,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 18,
+      "heading": "Sample Outreach Materials",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 18,
+      "heading": "One-Pager Highlights",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 18,
+      "heading": "Points:",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 18,
+      "heading": "Presentation Slide Outline",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 19,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 19,
+      "heading": "Frequently Asked Questions",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 20,
+      "heading": "Automotive Analytics Solutions Confidential",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 20,
+      "heading": "Contact & Next Steps",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 20,
+      "heading": "Proposal:",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 20,
+      "heading": "Option:",
+      "kind": "title_case"
+    },
+    {
+      "page_number": 20,
+      "heading": "Contact Details",
+      "kind": "title_case"
+    }
+  ],
+  "ocr_recommended": false,
+  "generated_at": "2026-07-11T17:48:18.466639+00:00"
+}

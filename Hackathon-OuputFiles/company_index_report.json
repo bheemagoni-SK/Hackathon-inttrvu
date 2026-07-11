@@ -1,0 +1,16 @@
+{
+  "signals_file": "/content/extraction_output/company_signals.json",
+  "news_file": "/content/extraction_output/company_news.json",
+  "chunks_file": "/content/extraction_output/company_chunks.jsonl",
+  "report_file": "/content/extraction_output/company_ingestion_report.json",
+  "index_report": {
+    "generated_at": "2026-07-11T17:50:35.836534+00:00",
+    "run_id": "20260711T175034Z-070ff22d",
+    "collection_name": "company_profiles_chunks",
+    "persist_dir": "/content/extraction_output/chroma_db",
+    "source_chunks_file": "/content/extraction_output/company_chunks.jsonl",
+    "source_file_hash": "665014e110c78223c8f3eb1671381f5153f7b1cfed3276b959b693a42782178d",
+    "indexed_chunks": 13,
+    "total_in_collection": 13
+  }
+}

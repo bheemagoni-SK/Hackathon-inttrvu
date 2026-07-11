@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-07-11T17:52:06.993839+00:00",
+  "signals": 13,
+  "signals_skipped": 1,
+  "signals_skipped_details": [
+    {
+      "company_name": "Tata Motors",
+      "ticker": "TATAMOTORS.NS",
+      "reason": "no_market_data"
+    }
+  ],
+  "news_snippets": 56,
+  "chunks": 13,
+  "collection": "company_profiles_chunks",
+  "index_report": {
+    "generated_at": "2026-07-11T17:52:06.993003+00:00",
+    "run_id": "20260711T175205Z-34b619da",
+    "collection_name": "company_profiles_chunks",
+    "persist_dir": "/content/extraction_output/chroma_db",
+    "source_chunks_file": "/content/extraction_output/company_chunks.jsonl",
+    "source_file_hash": "b1510d6daafc60e3df43f6583ae751f16cba343965d209c51cd692ee1404f8f9",
+    "indexed_chunks": 13,
+    "total_in_collection": 13
+  }
+}

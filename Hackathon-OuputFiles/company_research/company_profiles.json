@@ -1,0 +1,1461 @@
+{
+  "generated_at": "2026-07-11T17:54:25.294766+00:00",
+  "profiles": [
+    {
+      "company_name": "Maruti Suzuki",
+      "company_type": "OEM",
+      "company_overview": "",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "",
+      "financial_highlights": "{'ticker': 'MARUTI.NS', 'period': '6mo', 'close_start': 16582.0, 'close_end': 13854.0, 'percent_change': -16.45, 'avg_volume': 492097.19, 'signal': 'negative_momentum'}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "MARUTI.NS",
+      "market_cap_bucket": "unknown",
+      "revenue_trend": "unknown",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00032",
+          "citation_anchor": "https://www.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00033",
+          "citation_anchor": "https://dev.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00021",
+          "citation_anchor": "https://www.moneycontrol.com/automobile/premiumisation-exports-and-rural-demand-emerge-as-auto-industry-s-growth-pillars-for-fy27-article-13941157.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00053",
+          "citation_anchor": "https://economictimes.indiatimes.com/topic/india-automotive-industry",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00059",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/india-auto-inc-unprecedented-growth-in-fy26/129919902",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00001",
+          "citation_anchor": "company:Maruti Suzuki",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00004",
+          "citation_anchor": "company:Bajaj Auto",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00005",
+          "citation_anchor": "company:Eicher Motors",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00012",
+          "citation_anchor": "company:Exide Industries",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00007",
+          "citation_anchor": "company:Bosch",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.84,
+      "generated_at": "2026-07-11T17:52:14.681410+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "Tata Motors",
+      "company_type": "OEM",
+      "company_overview": "",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "",
+      "financial_highlights": "{}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "TATAMOTORS.NS",
+      "market_cap_bucket": "unknown",
+      "revenue_trend": "unknown",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00032",
+          "citation_anchor": "https://www.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00033",
+          "citation_anchor": "https://dev.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00019",
+          "citation_anchor": "https://www.moneycontrol.com/news/tags/indian-automobile-industry.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00053",
+          "citation_anchor": "https://economictimes.indiatimes.com/topic/india-automotive-industry",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00066",
+          "citation_anchor": "https://www.autocarpro.in/news/indias-auto-sector-records-strong-export-growth-in-fy25-after-previous-year-slowdown-127507",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00001",
+          "citation_anchor": "company:Maruti Suzuki",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00012",
+          "citation_anchor": "company:Exide Industries",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00013",
+          "citation_anchor": "company:Amara Raja",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00010",
+          "citation_anchor": "company:Sona BLW",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.88,
+      "generated_at": "2026-07-11T17:52:17.474289+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "Mahindra & Mahindra",
+      "company_type": "OEM",
+      "company_overview": "Company: Mahindra & Mahindra. Type: OEM.",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "Indian Auto Industry Sees Significant Growth Amidst .... Feb 4, 2026 · The industry outlook remains positive due to government initiatives, demand increases, and favorable economic conditions.",
+      "financial_highlights": "{'ticker': 'M&M.NS', 'close_start': 3643.7353515625, 'close_end': 3129.39990234375, 'percent_change': -14.12, 'avg_volume': 3024402.09, 'signal': 'negative_momentum'}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "M&M.NS",
+      "market_cap_bucket": "unknown",
+      "revenue_trend": "unknown",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00019",
+          "citation_anchor": "https://www.moneycontrol.com/news/tags/indian-automobile-industry.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00066",
+          "citation_anchor": "https://www.autocarpro.in/news/indias-auto-sector-records-strong-export-growth-in-fy25-after-previous-year-slowdown-127507",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00053",
+          "citation_anchor": "https://economictimes.indiatimes.com/topic/india-automotive-industry",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00032",
+          "citation_anchor": "https://www.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00033",
+          "citation_anchor": "https://dev.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00002",
+          "citation_anchor": "company:Mahindra & Mahindra",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00003",
+          "citation_anchor": "company:Ashok Leyland",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00012",
+          "citation_anchor": "company:Exide Industries",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00011",
+          "citation_anchor": "company:UNO Minda",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.84,
+      "generated_at": "2026-07-11T17:52:22.087999+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "Ashok Leyland",
+      "company_type": "OEM",
+      "company_overview": "Company: Ashok Leyland. Type: OEM.",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "Indian Auto Industry Sees Significant Growth Amidst.",
+      "financial_highlights": "{'period': '6mo', 'close_start': 183.87, 'close_end': 157.49, 'percent_change': -14.35, 'avg_volume': 23682417.57, 'signal': 'negative_momentum'}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "ASHOKLEY.NS",
+      "market_cap_bucket": "unknown",
+      "revenue_trend": "unknown",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00032",
+          "citation_anchor": "https://www.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00033",
+          "citation_anchor": "https://dev.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00059",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/india-auto-inc-unprecedented-growth-in-fy26/129919902",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00019",
+          "citation_anchor": "https://www.moneycontrol.com/news/tags/indian-automobile-industry.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00066",
+          "citation_anchor": "https://www.autocarpro.in/news/indias-auto-sector-records-strong-export-growth-in-fy25-after-previous-year-slowdown-127507",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00003",
+          "citation_anchor": "company:Ashok Leyland",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00002",
+          "citation_anchor": "company:Mahindra & Mahindra",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00013",
+          "citation_anchor": "company:Amara Raja",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00011",
+          "citation_anchor": "company:UNO Minda",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.84,
+      "generated_at": "2026-07-11T17:52:26.488887+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "Bajaj Auto",
+      "company_type": "OEM",
+      "company_overview": "Company: Bajaj Auto. Type: OEM. Financial momentum: positive_momentum.",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "The auto industry enters FY27 with growth increasingly driven by premium vehicles, rising exports and improving rural demand.",
+      "financial_highlights": "{'ticker': 'BAJAJ-AUTO.NS', 'percent_change': 8.51, 'avg_volume': 349459.36}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "BAJAJ-AUTO.NS",
+      "market_cap_bucket": "Not specified in the provided data.",
+      "revenue_trend": "The Indian Auto Industry can see significant growth due to increasing demand and government initiatives.",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00060",
+          "citation_anchor": "https://www.autocarpro.in/",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00032",
+          "citation_anchor": "https://www.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00033",
+          "citation_anchor": "https://dev.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00066",
+          "citation_anchor": "https://www.autocarpro.in/news/indias-auto-sector-records-strong-export-growth-in-fy25-after-previous-year-slowdown-127507",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00021",
+          "citation_anchor": "https://www.moneycontrol.com/automobile/premiumisation-exports-and-rural-demand-emerge-as-auto-industry-s-growth-pillars-for-fy27-article-13941157.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00004",
+          "citation_anchor": "company:Bajaj Auto",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00001",
+          "citation_anchor": "company:Maruti Suzuki",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00003",
+          "citation_anchor": "company:Ashok Leyland",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00002",
+          "citation_anchor": "company:Mahindra & Mahindra",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.84,
+      "generated_at": "2026-07-11T17:52:31.627080+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "Eicher Motors",
+      "company_type": "OEM",
+      "company_overview": "",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "",
+      "financial_highlights": "{'ticker': 'EICHERMOT.NS', 'period': '6mo', 'close_start': 7436.0, 'close_end': 7365.5, 'percent_change': -0.95, 'avg_volume': 574882.46, 'signal': 'neutral_momentum'}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "EICHERMOT.NS",
+      "market_cap_bucket": "unknown",
+      "revenue_trend": "unknown",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00076",
+          "citation_anchor": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREUxYzIxbkVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US:en",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00024",
+          "citation_anchor": "https://www.moneycontrol.com/news/business/moneycontrol-research/automobile-industry-starts-2026-on-a-good-note-13807493.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00028",
+          "citation_anchor": "https://www.screener.in/market/IN02/IN0201/",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00032",
+          "citation_anchor": "https://www.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00033",
+          "citation_anchor": "https://dev.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00067",
+          "citation_anchor": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREUxYzIxbkVnSmxiaWdBUAE",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00005",
+          "citation_anchor": "company:Eicher Motors",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00001",
+          "citation_anchor": "company:Maruti Suzuki",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00012",
+          "citation_anchor": "company:Exide Industries",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00010",
+          "citation_anchor": "company:Sona BLW",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.84,
+      "generated_at": "2026-07-11T17:52:36.898233+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "TVS Motor",
+      "company_type": "OEM",
+      "company_overview": "",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "",
+      "financial_highlights": "{'ticker': 'TVSMOTOR.NS', 'period': '6mo', 'close_start': 3741.7216796875, 'close_end': 3623.10009765625, 'percent_change': -3.17, 'avg_volume': 969457.47, 'signal': 'negative_momentum'}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "TVSMOTOR.NS",
+      "market_cap_bucket": "unknown",
+      "revenue_trend": "unknown",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00067",
+          "citation_anchor": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREUxYzIxbkVnSmxiaWdBUAE",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00028",
+          "citation_anchor": "https://www.screener.in/market/IN02/IN0201/",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00076",
+          "citation_anchor": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREUxYzIxbkVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US:en",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00024",
+          "citation_anchor": "https://www.moneycontrol.com/news/business/moneycontrol-research/automobile-industry-starts-2026-on-a-good-note-13807493.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00018",
+          "citation_anchor": "https://www.moneycontrol.com/news/business/moneycontrol-research/june-auto-sales-demand-momentum-maintains-speed-13964134.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00006",
+          "citation_anchor": "company:TVS Motor",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00004",
+          "citation_anchor": "company:Bajaj Auto",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00003",
+          "citation_anchor": "company:Ashok Leyland",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00010",
+          "citation_anchor": "company:Sona BLW",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00005",
+          "citation_anchor": "company:Eicher Motors",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.72,
+      "generated_at": "2026-07-11T17:52:44.526506+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "Bosch",
+      "company_type": "Tier-1 Supplier",
+      "company_overview": "",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "Indian Auto Industry Sees Significant Growth Amidst .... Feb 4, 2026 · The industry outlook remains positive due to government initiatives, demand increases, and favorable economic conditions.",
+      "financial_highlights": "{'ticker': 'BOSCHLTD.NS', 'close_start': 37660.0, 'close_end': 41815.0, 'percent_change': 11.03, 'avg_volume': 36386.36, 'signal': 'positive_momentum'}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "BOSCHLTD.NS",
+      "market_cap_bucket": "unknown",
+      "revenue_trend": "unknown",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00067",
+          "citation_anchor": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREUxYzIxbkVnSmxiaWdBUAE",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00024",
+          "citation_anchor": "https://www.moneycontrol.com/news/business/moneycontrol-research/automobile-industry-starts-2026-on-a-good-note-13807493.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00032",
+          "citation_anchor": "https://www.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00033",
+          "citation_anchor": "https://dev.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00053",
+          "citation_anchor": "https://economictimes.indiatimes.com/topic/india-automotive-industry",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00007",
+          "citation_anchor": "company:Bosch",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00010",
+          "citation_anchor": "company:Sona BLW",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00003",
+          "citation_anchor": "company:Ashok Leyland",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00004",
+          "citation_anchor": "company:Bajaj Auto",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.84,
+      "generated_at": "2026-07-11T17:52:49.040847+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "Motherson",
+      "company_type": "Tier-1 Supplier",
+      "company_overview": "",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "",
+      "financial_highlights": "{'ticker': 'MOTHERSON.NS', 'period': '6mo', 'close_start': 114.63424682617188, 'close_end': 143.19000244140625, 'percent_change': 24.91, 'avg_volume': 21483077.03, 'signal': 'positive_momentum'}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "MOTHERSON.NS",
+      "market_cap_bucket": "unknown",
+      "revenue_trend": "unknown",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00028",
+          "citation_anchor": "https://www.screener.in/market/IN02/IN0201/",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00015",
+          "citation_anchor": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8874f8f9-b675-43ce-ad9c-6ed3bfffeb9a.pdf",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00074",
+          "citation_anchor": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN:en",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00067",
+          "citation_anchor": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREUxYzIxbkVnSmxiaWdBUAE",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00019",
+          "citation_anchor": "https://www.moneycontrol.com/news/tags/indian-automobile-industry.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00010",
+          "citation_anchor": "company:Sona BLW",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00011",
+          "citation_anchor": "company:UNO Minda",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00001",
+          "citation_anchor": "company:Maruti Suzuki",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00002",
+          "citation_anchor": "company:Mahindra & Mahindra",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.84,
+      "generated_at": "2026-07-11T17:52:52.622303+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "Bharat Forge",
+      "company_type": "Component Manufacturer",
+      "company_overview": "Company: Bharat Forge. Type: Component Manufacturer.",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "The Indian Auto Industry sees significant growth, driven by demand increases and government initiatives.",
+      "financial_highlights": "{'ticker': 'BHARATFORG.NS', 'close_start': 1450.54, 'close_end': 2117.0, 'percent_change': 45.95, 'avg_volume': 1390797.43, 'signal': 'positive_momentum'}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "BHARATFORG.NS",
+      "market_cap_bucket": "Not specified in the provided evidence.",
+      "revenue_trend": "Not specified in the provided evidence.",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00032",
+          "citation_anchor": "https://www.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00033",
+          "citation_anchor": "https://dev.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00053",
+          "citation_anchor": "https://economictimes.indiatimes.com/topic/india-automotive-industry",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00059",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/india-auto-inc-unprecedented-growth-in-fy26/129919902",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00065",
+          "citation_anchor": "https://www.autocarpro.in/news/from-ev-headwinds-to-fta-tailwinds-a-week-of-high-stakes-and-high-shifts-in-the-auto-industry-127729",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00007",
+          "citation_anchor": "company:Bosch",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00010",
+          "citation_anchor": "company:Sona BLW",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00004",
+          "citation_anchor": "company:Bajaj Auto",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00001",
+          "citation_anchor": "company:Maruti Suzuki",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.84,
+      "generated_at": "2026-07-11T17:53:02.408672+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "Sona BLW",
+      "company_type": "Component Manufacturer",
+      "company_overview": "Company: Sona BLW. Type: Component Manufacturer. Financial momentum: positive_momentum.",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "Percent change over 6mo: 47.24. Average trading volume: 2173300.75.",
+      "financial_highlights": "{'ticker': 'SONACOMS.NS', 'close_start': 454.0507507324219, 'close_end': 668.5499877929688, 'percent_change': 47.24, 'avg_volume': 2173300.75}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "SONACOMS.NS",
+      "market_cap_bucket": "Not specified",
+      "revenue_trend": "Not specified",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00028",
+          "citation_anchor": "https://www.screener.in/market/IN02/IN0201/",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00019",
+          "citation_anchor": "https://www.moneycontrol.com/news/tags/indian-automobile-industry.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00065",
+          "citation_anchor": "https://www.autocarpro.in/news/from-ev-headwinds-to-fta-tailwinds-a-week-of-high-stakes-and-high-shifts-in-the-auto-industry-127729",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00053",
+          "citation_anchor": "https://economictimes.indiatimes.com/topic/india-automotive-industry",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00027",
+          "citation_anchor": "https://www.screener.in/market/IN02/IN0201/IN020101/",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00010",
+          "citation_anchor": "company:Sona BLW",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00011",
+          "citation_anchor": "company:UNO Minda",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00002",
+          "citation_anchor": "company:Mahindra & Mahindra",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00007",
+          "citation_anchor": "company:Bosch",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.84,
+      "generated_at": "2026-07-11T17:53:07.014130+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "UNO Minda",
+      "company_type": "Component Manufacturer",
+      "company_overview": "",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "The industry outlook remains positive due to government initiatives, demand increases, and favorable economic conditions.",
+      "financial_highlights": "{'ticker': 'UNOMINDA.NS', 'period': '6mo', 'close_start': 1207.24, 'close_end': 1166.1, 'percent_change': -3.41, 'avg_volume': 944809.14, 'signal': 'negative_momentum'}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "UNOMINDA.NS",
+      "market_cap_bucket": "unknown",
+      "revenue_trend": "unknown",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00028",
+          "citation_anchor": "https://www.screener.in/market/IN02/IN0201/",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00074",
+          "citation_anchor": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN:en",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00027",
+          "citation_anchor": "https://www.screener.in/market/IN02/IN0201/IN020101/",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00065",
+          "citation_anchor": "https://www.autocarpro.in/news/from-ev-headwinds-to-fta-tailwinds-a-week-of-high-stakes-and-high-shifts-in-the-auto-industry-127729",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00024",
+          "citation_anchor": "https://www.moneycontrol.com/news/business/moneycontrol-research/automobile-industry-starts-2026-on-a-good-note-13807493.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00011",
+          "citation_anchor": "company:UNO Minda",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00010",
+          "citation_anchor": "company:Sona BLW",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00003",
+          "citation_anchor": "company:Ashok Leyland",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00001",
+          "citation_anchor": "company:Maruti Suzuki",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.84,
+      "generated_at": "2026-07-11T17:53:11.894954+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "Exide Industries",
+      "company_type": "Component Manufacturer",
+      "company_overview": "Exide Industries is a leading manufacturer of batteries and energy storage solutions in India.",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "The Indian automotive component industry saw strong growth in FY26, driven by OEM supplies and aftermarket expansion.",
+      "financial_highlights": "{'ticker': 'EXIDEIND.NS', 'period': '6mo', 'close_start': 348.03, 'close_end': 424.4, 'percent_change': 21.94, 'avg_volume': 2898070.19, 'signal': 'positive_momentum'}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "EXIDEIND.NS",
+      "market_cap_bucket": "not specified",
+      "revenue_trend": "not specified",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00053",
+          "citation_anchor": "https://economictimes.indiatimes.com/topic/india-automotive-industry",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00066",
+          "citation_anchor": "https://www.autocarpro.in/news/indias-auto-sector-records-strong-export-growth-in-fy25-after-previous-year-slowdown-127507",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00032",
+          "citation_anchor": "https://www.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00033",
+          "citation_anchor": "https://dev.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00059",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/india-auto-inc-unprecedented-growth-in-fy26/129919902",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00012",
+          "citation_anchor": "company:Exide Industries",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00005",
+          "citation_anchor": "company:Eicher Motors",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00011",
+          "citation_anchor": "company:UNO Minda",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00003",
+          "citation_anchor": "company:Ashok Leyland",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.84,
+      "generated_at": "2026-07-11T17:53:17.779390+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "Amara Raja",
+      "company_type": "Component Manufacturer",
+      "company_overview": "",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "",
+      "financial_highlights": "{'ticker': 'ARE&M.NS', 'period': '6mo', 'close_start': 888.65, 'close_end': 890.05, 'percent_change': 0.16, 'avg_volume': 1070112.8, 'signal': 'neutral_momentum'}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "ARE&M.NS",
+      "market_cap_bucket": "unknown",
+      "revenue_trend": "unknown",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00019",
+          "citation_anchor": "https://www.moneycontrol.com/news/tags/indian-automobile-industry.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00053",
+          "citation_anchor": "https://economictimes.indiatimes.com/topic/india-automotive-industry",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00032",
+          "citation_anchor": "https://www.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00033",
+          "citation_anchor": "https://dev.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00014",
+          "citation_anchor": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b9cc9e36-4eda-46dc-bf6a-33de28ca858d.pdf",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00013",
+          "citation_anchor": "company:Amara Raja",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00003",
+          "citation_anchor": "company:Ashok Leyland",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00001",
+          "citation_anchor": "company:Maruti Suzuki",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00002",
+          "citation_anchor": "company:Mahindra & Mahindra",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.84,
+      "generated_at": "2026-07-11T17:53:21.582056+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "Automotive Component Manufacturers Association of India",
+      "company_type": "Industry Association",
+      "company_overview": "The automotive industry is an engine of growth for the Indian economy. The auto component industry contributes 2.3% to National GDP, providing direct employment to 1.5 million people.",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "",
+      "financial_highlights": "{}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "",
+      "market_cap_bucket": "unknown",
+      "revenue_trend": "unknown",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00047",
+          "citation_anchor": "https://www.acma.in/about-us.php",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00019",
+          "citation_anchor": "https://www.moneycontrol.com/news/tags/indian-automobile-industry.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00052",
+          "citation_anchor": "https://www.acma.in/uploads/publication/research-studies/acma-report-sep-25.pdf",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00032",
+          "citation_anchor": "https://www.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00033",
+          "citation_anchor": "https://dev.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00060",
+          "citation_anchor": "https://www.autocarpro.in/",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00003",
+          "citation_anchor": "company:Ashok Leyland",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00013",
+          "citation_anchor": "company:Amara Raja",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00002",
+          "citation_anchor": "company:Mahindra & Mahindra",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00012",
+          "citation_anchor": "company:Exide Industries",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00006",
+          "citation_anchor": "company:TVS Motor",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.88,
+      "generated_at": "2026-07-11T17:53:24.808488+00:00",
+      "raw_model_output": ""
+    },
+    {
+      "company_name": "Industry Business Environment",
+      "company_type": "Market Analysis",
+      "company_overview": "",
+      "products_services": [],
+      "manufacturing_locations": [],
+      "business_growth": "Indian Auto Industry Sees Significant Growth Amidst government initiatives, demand increases, and favorable economic conditions.",
+      "financial_highlights": "{}",
+      "recent_news": [],
+      "business_challenges": [],
+      "ticker": "",
+      "market_cap_bucket": "unknown",
+      "revenue_trend": "unknown",
+      "citations": [
+        {
+          "chunk_id": "india_auto_market_v1_c00028",
+          "citation_anchor": "https://www.screener.in/market/IN02/IN0201/",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00057",
+          "citation_anchor": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-records-broad-based-growth-outlook-remains-optimistic-report/127906930",
+          "confidence": 0.78,
+          "section": "market_news"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00024",
+          "citation_anchor": "https://www.moneycontrol.com/news/business/moneycontrol-research/automobile-industry-starts-2026-on-a-good-note-13807493.html",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00032",
+          "citation_anchor": "https://www.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00033",
+          "citation_anchor": "https://dev.ibef.org/industry/india-automobiles",
+          "confidence": 0.88,
+          "section": "industry_trends"
+        },
+        {
+          "chunk_id": "india_auto_market_v1_c00027",
+          "citation_anchor": "https://www.screener.in/market/IN02/IN0201/IN020101/",
+          "confidence": 0.88,
+          "section": "company_performance"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00009",
+          "citation_anchor": "company:Bharat Forge",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00001",
+          "citation_anchor": "company:Maruti Suzuki",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00008",
+          "citation_anchor": "company:Motherson",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00010",
+          "citation_anchor": "company:Sona BLW",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00011",
+          "citation_anchor": "company:UNO Minda",
+          "confidence": 0.84,
+          "section": "company_profile"
+        },
+        {
+          "chunk_id": "company_profiles_v1_c00012",
+          "citation_anchor": "company:Exide Industries",
+          "confidence": 0.84,
+          "section": "company_profile"
+        }
+      ],
+      "profile_confidence": 0.88,
+      "generated_at": "2026-07-11T17:53:28.199399+00:00",
+      "raw_model_output": ""
+    }
+  ]
+}
